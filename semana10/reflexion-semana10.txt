@@ -1,0 +1,5 @@
+Las metodologías ágiles ayudan a organizar mejor el trabajo porque permiten avanzar por etapas y revisar los resultados constantemente.
+Un backlog facilita la priorización de las tareas más importantes, la automatización puede ahorrar tiempo al realizar tareas repetitivas, 
+como enviar notificaciones. Telegram también facilita la comunicación entre los miembros del equipo. 
+Sin embargo, estas herramientas deben utilizarse de manera responsable para proteger la información de las personas. 
+Además, siempre es importante revisar el trabajo antes de darlo por terminado. De esta manera se logra una mejor organización y una participación más eficiente de la comunidad.
