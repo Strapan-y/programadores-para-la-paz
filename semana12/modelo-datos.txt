@@ -1,0 +1,18 @@
+Entidad: Causa
+
+- id: Identificador único de la causa.
+- titulo: Nombre de la causa propuesta.
+- descripcion: Explicación breve del propósito de la causa.
+- fecha: Fecha en la que fue creada.
+
+Esta entidad permite almacenar la información principal de cada iniciativa ciudadana.
+
+
+Entidad: Apoyo
+
+- id: Identificador único del apoyo registrado.
+- causa_id: Identificador de la causa a la que pertenece el apoyo.
+- nombre: Nombre de la persona que brinda su apoyo.
+- fecha: Fecha en la que se registró el apoyo.
+
+Esta entidad permite relacionar cada apoyo con una causa específica y contabilizar el respaldo ciudadano.

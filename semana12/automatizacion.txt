@@ -1,0 +1,14 @@
+Evento:
+Una nueva causa ciudadana es registrada en la plataforma.
+
+Mensaje:
+"Nueva causa registrada exitosamente. La comunidad ya puede comenzar a apoyarla."
+
+Información que NO debe enviarse:
+- Números de cédula.
+- Direcciones de residencia.
+- Números telefónicos.
+- Correos electrónicos personales.
+- Comentarios sensibles o información privada de los ciudadanos.
+
+La automatización puede realizarse mediante n8n para enviar una notificación a un grupo de Telegram o al administrador del sistema cuando se registre una nueva causa.
